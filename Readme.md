@@ -14,8 +14,12 @@ Welcome to my GitHub profile! I love building interactive projects, game experie
 
 ## 📚 Languages
 
-![Python](https://shields.io) ![C#](https://shields.io) ![JavaScript](https://shields.io) ![NASM](https://shields.io)
+![Python](https://shields.io)
+![C#](https://shields.io)
+![JavaScript](https://shields.io)
+![NASM](https://shields.io)
 
 ## 🎮 Gaming & Environments
 
-![Unity](https://shields.io) ![VS Code](https://shields.io)
+![Unity](https://shields.io)
+![VS Code](https://shields.io)
