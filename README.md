@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Processed-cheese]! 👋
 
-<!--
-**Processed-cheese/Processed-cheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer focused on building interactive projects, software solutions, and automated workflows.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** C#, JavaScript, Python
+* **Environments & Engines:** Unity, VS Code
+* **Low-Level Knowledge:** Basic understanding of NASM (Assembler)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Langs" height="150" />
+</p>
